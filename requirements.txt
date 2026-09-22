@@ -1,0 +1,28 @@
+# --- Scraping ---
+scrapy
+itemadapter
+
+# --- Data processing ---
+pandas
+numpy
+
+# --- Text processing / utils ---
+regex
+unidecode
+
+# --- Visualization  ---
+matplotlib
+seaborn
+
+# --- Machine Learning ---
+scikit-learn
+xgboost
+
+# --- Jupyter / Notebooks ---
+jupyter
+ipykernel
+
+# --- mlops ---
+mlflow
+fastapi
+

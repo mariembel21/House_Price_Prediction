@@ -1,0 +1,12 @@
+venv/
+venv2/
+__pycache__/
+*.pyc
+.scrapy/
+*.log
+*.json
+.env
+.idea/
+mlflow.db
+mlruns
+artifacts

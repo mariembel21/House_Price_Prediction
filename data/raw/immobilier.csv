@@ -1,0 +1,727 @@
+chambres,prix,source,surface,titre,type_bien,type_transaction,ville
+2,1600.0,immobilier,80.0,Au coeur de la marsa,Appart,À Vendre,Tunis
+2,1600.0,immobilier,140.0,Appartement rayen à lannée hammamet,Appart,À Vendre,Nabeul
+2,900.0,immobilier,100.0,"Bureau s2 à lafayette, tunis.",Appart,À Vendre,Tunis
+2,800.0,immobilier,80.0,"Superbes appartements s2 neufs à gremda km 7,5",Appart,À Vendre,Sfax
+4,275.0,immobilier,122.0,À vendre appartement s3 la marsa,Appart,À Vendre,Tunis
+3,730.0,immobilier,130.0,étage indépendant dans la résidence amana entre omrane su...,House,À Vendre,El Omrane Superieur...
+2,450.0,immobilier,150.0,Maison,Appart,À Vendre,Ben Aro...
+2,140000.0,immobilier,73.0,À vendre appartement s2 à mourouj 5 résidence soumay...,Appart,À Vendre,Ben Arous
+3,2700.0,immobilier,10.0,Duplex s3 avec jardin à la marsa mdl0707,House,À Vendre,Tunis
+2,2500.0,immobilier,10.0,Appartement s2 meublé à la marsa mal3508,Appart,À Vendre,Tunis
+2,3000.0,immobilier,10.0,Appartement s2 meublé vue mer à la marsa mal2002,Appart,À Vendre,Tunis
+3,3900.0,immobilier,10.0,Appartement s3 meublé à la marsa mal1202,Appart,À Vendre,Tunis
+3,4000.0,immobilier,10.0,Appartement meublé s3 lac 2 mal1030,Appart,À Vendre,Tunis
+3,4200.0,immobilier,1.0,Appartement semi-meublé s3 à marsa plage mal2827,Appart,À Vendre,Tunis
+3,7500.0,immobilier,10.0,Rez-de-chaussée de villa s3 à la marsa mrcl0337,House,À Vendre,Tunis
+3,2500.0,immobilier,1.0,Appartement s3 lac 2 zal2036,Appart,À Vendre,Tunis
+3,7500.0,immobilier,10.0,Rez-de-chaussée de villa meublé s3 à la marsa mvl1243,Appart,À Vendre,Tunis
+3,4500.0,immobilier,11.0,Rez-de-chaussée de villa s3 meublé à carthage zrcl0336,Appart,À Vendre,Tunis
+3,2600.0,immobilier,1.0,Appartement s3 mal1861,Appart,À Vendre,Tunis
+4,5000.0,immobilier,1.0,Villa s3 lac 2 mvl0186,House,À Vendre,Tunis
+4,3000.0,immobilier,1.0,Appartement s4 à la marsa mal2028,Appart,À Vendre,Tunis
+2,1800.0,immobilier,1.0,Appartement s2 avec jardin zal0661 à ain zaghouan el wa...,Appart,À Vendre,Tunis
+2,1800.0,immobilier,1.0,Appartement s2 à la marsa zal2026,Appart,À Vendre,Tunis
+2,140000.0,immobilier,73.0,À vendre appartement s2 à mourouj 5 résidence soumay...,Appart,À Vendre,Ben Arous
+3,270.0,immobilier,120.0,Appartement neuf,Appart,À Vendre,Ariana
+4,50.0,immobilier,100.0,منزل مؤثث في قصور الساف في ولاية المهدية للكراء باليو...,Appart,À Vendre,Mahdia
+5,460.0,immobilier,500.0,Villa de 2 étages,House,À Vendre,Sfax
+2,800.0,immobilier,78.0,S2 haut standing,Appart,À Vendre,Ben Arous
+4,410000.0,immobilier,158.0,App s3 hedi nouira pres clinique amilcar,Appart,À Vendre,Ariana
+2,2200.0,immobilier,135.0,Rez-de-chaussée s2 avec terrasse mrcl0209,Appart,À Vendre,Tunis
+4,50.0,immobilier,150.0,منزل مؤثث يبعد 1 دقيقة مشي عن البحر في شاطئ المناقع ف...,Appart,À Vendre,Mahdia
+5,1920000.0,immobilier,550.0,À vendre villa de charme mutuelleville,House,À Vendre,Tunis
+4,230.0,immobilier,200.0,Vacances verdoyantes,House,À Vendre,Sousse
+3,100.0,immobilier,80.0,Appartement lumineux emplacement idéal,Appart,À Vendre,Sousse
+3,100.0,immobilier,75.0,Apparemment tozeur,Appart,À Vendre,Tozeur
+2,243000.0,immobilier,73.0,Appartement s1 à ennaser 2,Appart,À Vendre,Ariana
+2,750.0,immobilier,62.0,Appartement s1 menzah 9c,Appart,À Vendre,Tunis
+3,220000.0,immobilier,86.0,Appartement s2 à el manar 2,Appart,À Vendre,Tunis
+2,170000.0,immobilier,75.0,Appartement s1 à ennaser 2,Appart,À Vendre,Ariana
+3,1100.0,immobilier,180.0,Rez de chaussée de villa à usage bureautique à menzah 9,Appart,À Vendre,Tunis
+4,280000.0,immobilier,125.0,Appartement s3 à ennaser 1,Appart,À Vendre,Ariana
+5,3000.0,immobilier,330.0,Grande villa sur deux niveaux à la soukra,House,À Vendre,Ariana
+5,1400.0,immobilier,130.0,Bureau a4 à centre urbain nord,Appart,À Vendre,
+3,1100.0,immobilier,150.0,Appartement à el menzah 7 s2,Appart,À Vendre,Ariana
+2,150000.0,immobilier,50.0,Fonds de commerce à menzah 5,Appart,À Vendre,Ariana
+5,950000.0,immobilier,238.0,Triplex,Appart,À Vendre,Tunis
+4,10000.0,immobilier,780.0,Villa à gammarth,House,À Vendre,Tunis
+4,380000.0,immobilier,120.0,Appartement s3 rénové haut standing à menzah 9,Appart,À Vendre,Tunis
+5,1007000.0,immobilier,234.0,Duplex s5,House,À Vendre,Tunis
+5,800000.0,immobilier,270.0,Appartement s4 haut standing à menzah 5,Appart,À Vendre,Ariana
+2,1300.0,immobilier,70.0,Appartement s1 meublé à ennaser 2,Appart,À Vendre,Ariana
+2,1200.0,immobilier,110.0,Rez de jardin à elmenzah 9 b,House,À Vendre,Tunis
+4,300000.0,immobilier,140.0,Appartement s3 à ennassr 1,Appart,À Vendre,Ariana
+3,850.0,immobilier,108.0,Appartement s3à elmenzah 7,Appart,À Vendre,Ariana
+4,2200.0,immobilier,170.0,Appartement haut standing à ennasr s3,Appart,À Vendre,Ariana
+5,1000.0,immobilier,240.0,étage de villa sur 2 niveaux à manar1,House,À Vendre,Tunis
+5,1600.0,immobilier,200.0,Étage de villa s4 à ennaser 2,Appart,À Vendre,Ariana
+5,3200.0,immobilier,250.0,étage de villa à enasser 2,House,À Vendre,Ariana
+5,2100000.0,immobilier,425.0,Villa à manar 2,House,À Vendre,Tunis
+5,3700.0,immobilier,206.0,Appartement,Appart,À Vendre,
+5,1300.0,immobilier,200.0,2s3 à cité ennasr lotissement el yamama,House,À Vendre,Ariana
+3,1400.0,immobilier,100.0,Duplex s2 a menzah 6,House,À Vendre,Ariana
+4,900000.0,immobilier,272.0,Appartements neufs lac 2,Appart,À Vendre,Tunis
+3,1500.0,immobilier,120.0,S2 a menzah 6,Appart,À Vendre,Ariana
+2,140000.0,immobilier,70.0,Appartement s1 à ennaser 2,Appart,À Vendre,Ariana
+3,1000.0,immobilier,90.0,Appartement s2 meublé à menzah 7,Appart,À Vendre,Ariana
+3,1000.0,immobilier,90.0,Appartement s2 a menzah 7,Appart,À Vendre,Ariana
+2,650.0,immobilier,90.0,Rez de jardin à elmanar 1,Appart,À Vendre,Tunis
+4,10000000.0,immobilier,159.0,Appartement à ennasr s3,Appart,À Vendre,Ariana
+4,360000.0,immobilier,138.0,Appartement haut standing à ennasr s3,Appart,À Vendre,Ariana
+2,1900.0,immobilier,70.0,Local à usage bureautique à menzah 5,Appart,À Vendre,Ariana
+2,1900.0,immobilier,60.0,Local à usage bureautique à menzah 5,Appart,À Vendre,Ariana
+3,356000.0,immobilier,137.0,Appartement haut standing à ennasr s2,Appart,À Vendre,Ariana
+2,800.0,immobilier,80.0,Appartement s1 jardin d el menzah 1,Appart,À Vendre,Tunis
+2,1900.0,immobilier,60.0,Local à usage bureautique à menzah 5,Appart,À Vendre,Ariana
+2,1500.0,immobilier,50.0,Local à usage bureautique à menzah 5,Appart,À Vendre,Ariana
+3,333000.0,immobilier,122.0,Appartement haut standing à ennasr s2,Appart,À Vendre,Ariana
+5,9000.0,immobilier,770.0,Villa pour habitaion ou usage bureautique à manar 2,House,À Vendre,Tunis
+3,1200.0,immobilier,116.0,Appartements s2 haut standing à ennasr,Appart,À Vendre,Ariana
+3,1500.0,immobilier,100.0,Appartement s2 meublé à ennaser 2,Appart,À Vendre,Ariana
+5,2700.0,immobilier,200.0,Bureau a4 au centre urbain nord,Appart,À Vendre,
+4,1000.0,immobilier,135.0,Appartement s3 à ennaser 2,Appart,À Vendre,Ariana
+3,900.0,immobilier,100.0,Appartement s2 jardin del menzah,Appart,À Vendre,Tunis
+3,800.0,immobilier,110.0,Maison à ennasr 2 s2,Appart,À Vendre,Ariana
+3,10000000.0,immobilier,132.0,Appartements haut standing s2 jinen ennasr,Appart,À Vendre,Kairouan
+5,1300.0,immobilier,200.0,Rez de jardin s3 à jardin del menzah 2,House,À Vendre,Tunis
+4,2000.0,immobilier,160.0,Rez de chaussée à usage bureautique à menzah 5,Appart,À Vendre,Ariana
+2,2200.0,immobilier,54.0,Appartement salon et une chambre,Appart,À Vendre,Tunis
+5,1500.0,immobilier,200.0,Duplex sur la route du relais,Appart,À Vendre,Tunis
+4,2000.0,immobilier,140.0,Appartement s3 meublé à centre urbain nord,Appart,À Vendre,
+2,1250.0,immobilier,90.0,Appartement s1 meublé à menzah 7 bis,Appart,À Vendre,Ariana
+4,430000.0,immobilier,320.0,"Maison s3 bizerte nord ain meriem, 1km de la mer, tout é...",House,À Vendre,Bizerte
+5,8000.0,immobilier,600.0,A louer une villa avec pisicine au lac 2,House,À Vendre,Tunis
+5,1320000.0,immobilier,420.0,Jolie villa à menzah 6,Appart,À Vendre,Ariana
+2,1500.0,immobilier,120.0,Rez de jardin s1 meublé à mutuelle ville,Appart,À Vendre,Tunis
+3,1200.0,immobilier,90.0,Bureau a2 à ennaser 2,Appart,À Vendre,Ariana
+5,2500.0,immobilier,370.0,Penthouse vide ou meublé à ennassr 2,Appart,À Vendre,Ariana
+3,550000.0,immobilier,141.0,Appartement au lac 2,Appart,À Vendre,Tunis
+4,1500.0,immobilier,80.0,Bureau a3 au centre urbain nord,Appart,À Vendre,
+4,609000.0,immobilier,182.0,Appartement s3 neuf promoteur,Appart,À Vendre,Tunis
+4,3000.0,immobilier,194.0,Spacieux s3 lac 2,Appart,À Vendre,Tunis
+5,1200000.0,immobilier,620.0,Villa à la soukra chotrana 1,House,À Vendre,Ariana
+3,300000.0,immobilier,107.0,Appartement s2 meublé à la soukra,Appart,À Vendre,Ariana
+2,200000.0,immobilier,60.0,Appartement neuf s1 à la soukra,Appart,À Vendre,Ariana
+4,260000.0,immobilier,100.0,Appartement s3 à nord hilton,Appart,À Vendre,Tunis
+4,265000.0,immobilier,113.0,Appartement s3 a menzah 4,Appart,À Vendre,Tunis
+5,1600000.0,immobilier,350.0,Deux villa jumelée,House,À Vendre,Tunis
+5,320000.0,immobilier,125.0,Appartement s4 à menzah 4,Appart,À Vendre,Tunis
+4,1300.0,immobilier,160.0,Appartement s3 meuble à ennaser 2,Appart,À Vendre,Ariana
+5,710000.0,immobilier,284.0,Duplex s4 à menzah 9 c,Appart,À Vendre,Tunis
+5,7500.0,immobilier,750.0,Villa lac 2,House,À Vendre,Tunis
+5,850000.0,immobilier,304.0,Villa s4 à la soukra,House,À Vendre,Ariana
+3,229000.0,immobilier,77.0,Appartement s2 à ennaser 2,Appart,À Vendre,Ariana
+3,3000.0,immobilier,140.0,Appartement salon et deux chambres aux berges du lac 1,Appart,À Vendre,Tunis
+5,1500000.0,immobilier,610.0,Villa s5 à menzah 7,Appart,À Vendre,Ariana
+3,410000.0,immobilier,115.0,Appartement s2,Appart,À Vendre,Tunis
+4,320000.0,immobilier,119.0,Appartement s3 a menzah 1,Appart,À Vendre,Tunis
+3,360000.0,immobilier,115.0,Appartement s2,Appart,À Vendre,Tunis
+5,10000.0,immobilier,550.0,Villa lac 2,House,À Vendre,Tunis
+5,3700000.0,immobilier,550.0,Villa neuve au berges du lac 2,House,À Vendre,Tunis
+2,750.0,immobilier,70.0,Rez de chaussée de villa s1 mutuelle ville,Appart,À Vendre,Tunis
+3,1900.0,immobilier,120.0,S2 meublé au golden tulip,Appart,À Vendre,Tunis
+4,6100.0,immobilier,300.0,Bureau a3 à centre urbain nord,Appart,À Vendre,
+3,390000.0,immobilier,141.0,Appartements s2 à la soukra,Appart,À Vendre,Ariana
+4,5000.0,immobilier,320.0,Splendide triplex avec piscine à la marsa,Appart,À Vendre,Tunis
+3,1650.0,immobilier,125.0,S2,Appart,À Vendre,Tunis
+3,800.0,immobilier,51.0,Cabinet médicale a2 à ennaser 2,Appart,À Vendre,Ariana
+5,3400000.0,immobilier,617.0,Villa lac 2,House,À Vendre,Tunis
+4,611000.0,immobilier,221.0,Appartements s3 à la soukra,Appart,À Vendre,Ariana
+5,1027000.0,immobilier,334.0,Villa luxueuse à la soukra,House,À Vendre,Ariana
+5,1500000.0,immobilier,270.0,S4 aux berges du lac,Appart,À Vendre,Tunis
+4,3000.0,immobilier,180.0,"Appartement - la marsa, tunis",Appart,À Vendre,Tunis
+4,4500.0,immobilier,300.0,Villa meublé à la marsa,House,À Vendre,Tunis
+5,1250000.0,immobilier,373.0,Villa luxueux à la soukra,Appart,À Vendre,Ariana
+3,3000.0,immobilier,120.0,Appartement à la marsa,Appart,À Vendre,Tunis
+4,750000.0,immobilier,206.0,Appartement aux berges du lac,Appart,À Vendre,Tunis
+5,4200.0,immobilier,525.0,Villa à gammarth supérieur,Appart,À Vendre,Tunis
+5,1700000.0,immobilier,525.0,Villa à gammarth supérieur,Appart,À Vendre,Tunis
+3,1200.0,immobilier,240.0,Rdc de villa à la marsa corniche,Appart,À Vendre,Tunis
+4,2500.0,immobilier,160.0,S3 à marsa les pins,Appart,À Vendre,Tunis
+3,4500.0,immobilier,150.0,S2 meublé avec vue panoramique,Appart,À Vendre,Tunis
+5,4800.0,immobilier,420.0,Duplex avec jardin de 420m2 les berges du lac,House,À Vendre,
+5,4500.0,immobilier,370.0,Duplex avec jardin au berges du lac 1,House,À Vendre,
+3,1150.0,immobilier,91.0,Appartement villa s2 à ain zaghouan,Appart,À Vendre,Tunis
+4,3500.0,immobilier,150.0,Duplex jumelé avec jardin au lac 2,House,À Vendre,Tunis
+4,1200000.0,immobilier,200.0,Appartement s3 200m2 les berges du lac 1,Appart,À Vendre,Tunis
+5,17000.0,immobilier,800.0,Villa à gammarth supèrieur,House,À Vendre,Tunis
+5,3500.0,immobilier,220.0,S4 à gammarth,Appart,À Vendre,
+2,1800.0,immobilier,80.0,S1 meublé à la marsa,Appart,À Vendre,Tunis
+5,2000.0,immobilier,400.0,Opportunité à ne pas rater,House,À Vendre,Tunis
+2,1600.0,immobilier,100.0,S2 meublévide au centre urbain nord,Appart,À Vendre,Tunis
+2,3400.0,immobilier,80.0,Loft à la marsa,Appart,À Vendre,Tunis
+4,375000.0,immobilier,165.0,Appartement s3 à la soukra,Appart,À Vendre,Ariana
+3,1300000.0,immobilier,260.0,Duplex s3 à gammarth supérieur,Appart,À Vendre,Tunis
+3,1600.0,immobilier,123.0,Appartement s2 meublé- ennaser 2,Appart,À Vendre,Ariana
+4,1400.0,immobilier,170.0,S3 à la marsa,Appart,À Vendre,Tunis
+3,390000.0,immobilier,100.0,S2 au rdc - lac 2,Appart,À Vendre,Tunis
+4,5000.0,immobilier,410.0,Villa à la marsa,House,À Vendre,Tunis
+4,2500.0,immobilier,220.0,Appartement s3 à gammarth,Appart,À Vendre,Tunis
+4,3000.0,immobilier,131.0,Rent a s 3 with a large terrace at the lake 1,Appart,À Vendre,Tunis
+2,1500.0,immobilier,95.0,S1 neuf à la marsa,Appart,À Vendre,Tunis
+4,1800.0,immobilier,200.0,Étage de villa s3 à mutuelle ville,Appart,À Vendre,Tunis
+4,2200.0,immobilier,150.0,S3 meublé à la marsa,Appart,À Vendre,Tunis
+4,590000.0,immobilier,261.0,S3 à la marsa,Appart,À Vendre,
+5,6500.0,immobilier,800.0,Villa s6 à gammarth,House,À Vendre,
+3,2500.0,immobilier,160.0,Rdc de villla s2 avec jardin,Appart,À Vendre,Tunis
+4,4500.0,immobilier,180.0,Unique appartement vue mer,Appart,À Vendre,Tunis
+3,1000.0,immobilier,110.0,Appartement s2 à gammarth,Appart,À Vendre,Tunis
+5,4000.0,immobilier,500.0,Villa à gammarth,House,À Vendre,Tunis
+5,1800000.0,immobilier,600.0,Villa à gammarth,House,À Vendre,Tunis
+3,1200.0,immobilier,190.0,S2 190m2 à ain zaghouan nord,Appart,À Vendre,Tunis
+5,2700.0,immobilier,200.0,S4 à la marsa,Appart,À Vendre,Tunis
+4,3500.0,immobilier,220.0,Appartement à la marsa,Appart,À Vendre,Tunis
+3,1500.0,immobilier,70.0,Etage de villa à gammarth supérieur,Appart,À Vendre,Tunis
+5,2500000.0,immobilier,400.0,Villa avec piscine au lac1,House,À Vendre,Tunis
+5,2500000.0,immobilier,620.0,Villa a mandes france mutuelle ville,House,À Vendre,Tunis
+4,3000.0,immobilier,170.0,S3 meublé à marsa ville,Appart,À Vendre,Tunis
+4,780000.0,immobilier,180.0,S3 spacieux aux lac 2,Appart,À Vendre,Tunis
+5,840000.0,immobilier,450.0,Triplex à la marsa,Appart,À Vendre,Tunis
+3,700000.0,immobilier,130.0,S2 neuf à gammarth,Appart,À Vendre,Tunis
+3,2500.0,immobilier,130.0,S2 meublé à gammarth,Appart,À Vendre,
+5,3800.0,immobilier,450.0,Villa avec jardin- ennasser 1,House,À Vendre,Ariana
+3,1300.0,immobilier,150.0,Duplex à sidi bou said,House,À Vendre,Tunis
+4,3000.0,immobilier,207.0,Appartement à la marsa,Appart,À Vendre,Tunis
+4,4500.0,immobilier,230.0,Etage de villa à gammarth,Appart,À Vendre,Tunis
+2,2000.0,immobilier,70.0,Appartement à la marsa corniche,Appart,À Vendre,Tunis
+5,2500.0,immobilier,450.0,Villa à carthage,House,À Vendre,Tunis
+5,10000.0,immobilier,600.0,Villa avec piscine vue mer,House,À Vendre,Tunis
+4,4500.0,immobilier,350.0,Duplex meublé à gammarth,House,À Vendre,Tunis
+4,6500.0,immobilier,170.0,S3 semi meublé de très haut standing à la marsa,Appart,À Vendre,Tunis
+4,500000.0,immobilier,181.0,Appartement s3 181m2 à ain zaghouan,Appart,À Vendre,Tunis
+5,800000.0,immobilier,225.0,Appartement s4 285m2 aux berges du lac 1,Appart,À Vendre,Tunis
+5,1300.0,immobilier,180.0,S4 à la marsa,Appart,À Vendre,Tunis
+2,1500.0,immobilier,70.0,S1 meublé dans la zone touristique de gammarth,Appart,À Vendre,Tunis
+5,7000.0,immobilier,600.0,Rent a villa in the tourist area of gammarth,House,À Vendre,Tunis
+5,1400000.0,immobilier,530.0,Villa plain pied à la marsa,House,À Vendre,Tunis
+4,2300.0,immobilier,160.0,étage de villa,Appart,À Vendre,Tunis
+3,450000.0,immobilier,147.0,S3 à gammarth supérieur,Appart,À Vendre,Tunis
+5,3500.0,immobilier,465.0,Villa à la marsa,House,À Vendre,Tunis
+5,500000.0,immobilier,190.0,Triplex au kram,Appart,À Vendre,Tunis
+2,1000.0,immobilier,70.0,Appartement s1 la marsa,Appart,À Vendre,Tunis
+5,650000.0,immobilier,280.0,Duplex à gammarth supérieur,House,À Vendre,Tunis
+4,6000.0,immobilier,480.0,Villa à gammarth,House,À Vendre,
+4,2300.0,immobilier,170.0,S3 meublé 170m2 à ain zaghouan nord,Appart,À Vendre,Tunis
+5,4000.0,immobilier,280.0,S4 à la gammarth,Appart,À Vendre,
+5,4500.0,immobilier,365.0,étage de villa à la marsa,House,À Vendre,Tunis
+3,1200.0,immobilier,92.0,S2 à la marsa,Appart,À Vendre,Tunis
+4,465000.0,immobilier,166.0,S3 165m2 à ain zaghouan nord,Appart,À Vendre,Tunis
+3,240000.0,immobilier,61.0,Appartement s2 avec balcon - ennasser2,Appart,À Vendre,Ariana
+4,435000.0,immobilier,140.0,Appartement s3 à la soukra,Appart,À Vendre,Ariana
+5,4000.0,immobilier,250.0,Appartement s3 auc lac 1,Appart,À Vendre,Tunis
+4,1600.0,immobilier,200.0,S3 neuf à la marsa,Appart,À Vendre,Tunis
+4,420000.0,immobilier,240.0,Villa avec deux locaux commerciales- cite milaha ariana,House,À Vendre,Ariana
+4,610000.0,immobilier,160.0,S3 à marsa les pins,Appart,À Vendre,Tunis
+2,1300.0,immobilier,80.0,S1 meublé 80m2 au ain zaghouan nord,Appart,À Vendre,Tunis
+3,1200.0,immobilier,100.0,étage de villa neuf. la marsa,Appart,À Vendre,Tunis
+5,590000.0,immobilier,255.0,Villas neufs à la soukra,Appart,À Vendre,Ariana
+3,1200.0,immobilier,120.0,S2 à la gammarth,Appart,À Vendre,
+3,2000.0,immobilier,160.0,S2 avec jardin à marsa corniche,Appart,À Vendre,Tunis
+5,4000.0,immobilier,800.0,Villa à gammarth,House,À Vendre,
+2,3000.0,immobilier,100.0,S2 meublé à la marsa,Appart,À Vendre,Tunis
+4,1900.0,immobilier,230.0,Rdc s3,Appart,À Vendre,Tunis
+5,7500.0,immobilier,600.0,Villa . gammarth,House,À Vendre,Tunis
+2,2500.0,immobilier,80.0,Appartement s1 meublé à gammarth,Appart,À Vendre,Tunis
+3,1400.0,immobilier,100.0,Appartement s2 meublé- ennaser 2,Appart,À Vendre,Ariana
+5,2300.0,immobilier,246.0,Duplex s4 à sidi bou said,House,À Vendre,Tunis
+4,1700.0,immobilier,250.0,Rez de chaussÉe de villa s3 avec jardin - ennasr 2,Appart,À Vendre,Ariana
+3,1500.0,immobilier,100.0,Appartement meublé s2 avec jardin. la marsa,Appart,À Vendre,Tunis
+2,330000.0,immobilier,70.0,S1 de 70 m² au lac,Appart,À Vendre,Tunis
+4,3200.0,immobilier,125.0,Appartement meublé à la marsa,Appart,À Vendre,Tunis
+4,1300.0,immobilier,200.0,S3 jamais habité sur la route touristique de gammarth.,Appart,À Vendre,Tunis
+3,1500.0,immobilier,200.0,S2 meublé à la marsa.,Appart,À Vendre,Tunis
+4,1500.0,immobilier,170.0,S3 à la marsa,Appart,À Vendre,Tunis
+3,1500.0,immobilier,147.0,S2 à gammarth,Appart,À Vendre,Tunis
+4,320000.0,immobilier,125.0,S3 sur la route du relais gammarth.,Appart,À Vendre,
+4,4000.0,immobilier,190.0,S3 au lac deux avec jardin,Appart,À Vendre,
+2,215000.0,immobilier,67.0,Appartement s1 à ain zaghouan nord,Appart,À Vendre,Tunis
+5,3000.0,immobilier,300.0,Triplex à gammarth,Appart,À Vendre,Tunis
+4,1650000.0,immobilier,467.0,Villa à gammarth,House,À Vendre,Tunis
+5,775000.0,immobilier,250.0,Triplex à gammarth,Appart,À Vendre,Tunis
+5,2800000.0,immobilier,489.0,Penthouse en s5 sur la route touristique de gammarth.,Appart,À Vendre,Tunis
+4,5000.0,immobilier,350.0,Villa. gammarth supérieur,House,À Vendre,Tunis
+5,1100000.0,immobilier,410.0,Maison à la marsa plage,House,À Vendre,Tunis
+3,2500.0,immobilier,180.0,Appartement à marsa corniche,Appart,À Vendre,Tunis
+4,550000.0,immobilier,178.0,S3 de 178 m² à sidi daoud - la marsa,Appart,À Vendre,Tunis
+4,512000.0,immobilier,183.0,Appartement s3,Appart,À Vendre,Tunis
+4,512000.0,immobilier,173.0,Appartement s3,Appart,À Vendre,Tunis
+4,475000.0,immobilier,158.0,Appartement s3,Appart,À Vendre,Tunis
+4,2000.0,immobilier,180.0,S3 à la marsa,Appart,À Vendre,Tunis
+5,1200000.0,immobilier,447.0,Villa à la marsa,House,À Vendre,Tunis
+5,5500.0,immobilier,550.0,Villa à gammarth,House,À Vendre,Tunis
+4,438000.0,immobilier,156.0,Appartement s3,Appart,À Vendre,Tunis
+4,7000.0,immobilier,300.0,Villa jumelé à gammarth,House,À Vendre,Tunis
+4,4000.0,immobilier,200.0,Appartement semi meublé. gammarth,Appart,À Vendre,Tunis
+5,520000.0,immobilier,185.0,Duplex jumelé . la marsa,House,À Vendre,Tunis
+5,7500.0,immobilier,300.0,Villa à la marsa,House,À Vendre,Tunis
+3,2400.0,immobilier,160.0,Villa s2 à la marsa,House,À Vendre,Tunis
+2,950.0,immobilier,75.0,Appartement s1 meublé à menzah 9 c,Appart,À Vendre,Tunis
+3,3400.0,immobilier,150.0,Rent a furnished duplex at lac2,House,À Vendre,Tunis
+4,1200.0,immobilier,120.0,étage de villa,Appart,À Vendre,Tunis
+3,399000.0,immobilier,94.0,Etage de villa à marsa plage,Appart,À Vendre,Tunis
+4,4000.0,immobilier,250.0,Villa s3 avec jardin à gammarth sup,House,À Vendre,Tunis
+3,3500.0,immobilier,350.0,Villa s2 à gammarth,House,À Vendre,Tunis
+4,2200.0,immobilier,150.0,étage de villa au lac 1,Appart,À Vendre,Tunis
+5,7500.0,immobilier,220.0,Penthouse à la marsa,Appart,À Vendre,Tunis
+4,1700.0,immobilier,240.0,S3 de 230 m²,Appart,À Vendre,
+5,6500.0,immobilier,680.0,Villa meublée à gammarth,House,À Vendre,Tunis
+5,1770720.0,immobilier,278.0,Luxueux s4 lac 2,Appart,À Vendre,Tunis
+4,810000.0,immobilier,318.0,Villa de 318 m² sur un terrain de 200 m² à la marsa,Appart,À Vendre,Tunis
+3,2000.0,immobilier,120.0,S2 meublé à la marsa,Appart,À Vendre,Tunis
+4,2600.0,immobilier,130.0,Duplex vue mer à gammarth,House,À Vendre,Tunis
+3,2400.0,immobilier,115.0,S2 meublé à la marsa,Appart,À Vendre,Tunis
+3,2000.0,immobilier,100.0,"Appartement - la marsa, tunis",Appart,À Vendre,Tunis
+5,4300.0,immobilier,250.0,Triplex à la marsa,Appart,À Vendre,Tunis
+4,2300.0,immobilier,90.0,étage de villa s3 à la marsa plage,Appart,À Vendre,Tunis
+4,750000.0,immobilier,150.0,Duplex s3 à gammarth supérieur,Appart,À Vendre,Tunis
+5,7500.0,immobilier,400.0,Villa à gammarth,House,À Vendre,Tunis
+4,4000.0,immobilier,150.0,S3 meublé à la marina de gammarth.,Appart,À Vendre,Tunis
+4,680000.0,immobilier,260.0,Appartement s3,Appart,À Vendre,Tunis
+3,1400.0,immobilier,150.0,S2 meublé à gammarth supérieur,Appart,À Vendre,Tunis
+5,12000.0,immobilier,800.0,Villa avec piscine au lac1,House,À Vendre,Tunis
+2,1500.0,immobilier,70.0,Cabinet médical récent à marsa ville,Appart,À Vendre,Tunis
+2,1000.0,immobilier,25.0,Cabinet médical à marsa ville,Appart,À Vendre,Tunis
+5,1100.0,immobilier,140.0,Villa -mutuelle ville,House,À Vendre,Tunis
+3,480000.0,immobilier,141.0,S2 de 141 m² au lac 2,Appart,À Vendre,
+3,2300.0,immobilier,150.0,S2 meublé à la corniche,Appart,À Vendre,Tunis
+3,2000.0,immobilier,170.0,S2 meublé à la marsa,Appart,À Vendre,Tunis
+4,2500.0,immobilier,179.0,Duplex à gammarth,House,À Vendre,Tunis
+4,325000.0,immobilier,130.0,Appartement s3 à gammarth,Appart,À Vendre,Tunis
+5,3800.0,immobilier,400.0,Villa s5 meublée à sidi daoud,House,À Vendre,Tunis
+2,1400.0,immobilier,60.0,S1 à la marsa plage,Appart,À Vendre,Tunis
+5,7500.0,immobilier,600.0,Villa de maître,House,À Vendre,Tunis
+5,6500.0,immobilier,550.0,Villa à gammarth,House,À Vendre,Tunis
+4,370000.0,immobilier,143.0,S3 de 143 m² à la soukra,Appart,À Vendre,Ariana
+5,1000.0,immobilier,120.0,étage de villa à la marsa,Appart,À Vendre,Tunis
+5,2600.0,immobilier,450.0,Villa s4 à la marsa,House,À Vendre,Tunis
+5,2100000.0,immobilier,800.0,Villa s6 à la marsa,House,À Vendre,Tunis
+2,1800.0,immobilier,60.0,Appartement,Appart,À Vendre,Tunis
+5,1100000.0,immobilier,341.0,Duplex à la marsa,House,À Vendre,Tunis
+5,340000.0,immobilier,180.0,Triplex à laouina,Appart,À Vendre,Tunis
+5,1500000.0,immobilier,409.0,Villa à gammarth,House,À Vendre,Tunis
+4,725000.0,immobilier,252.0,Duplex de 252 m²,House,À Vendre,
+4,2000.0,immobilier,130.0,Rez de chaussée de villa à la marsa,Appart,À Vendre,Tunis
+3,2700.0,immobilier,140.0,S2 meublé à la marsa,Appart,À Vendre,Tunis
+2,195000.0,immobilier,60.0,Appartement s1,Appart,À Vendre,Tunis
+4,390000.0,immobilier,132.0,Appartement a la marsa,Appart,À Vendre,Tunis
+5,5500.0,immobilier,550.0,Villa à gammarth,House,À Vendre,Tunis
+2,1000.0,immobilier,70.0,S1 à la marsa,Appart,À Vendre,Tunis
+5,6000.0,immobilier,400.0,Duplex à la marsa,House,À Vendre,Tunis
+4,6000.0,immobilier,280.0,Appartement vue mer à la marsa,Appart,À Vendre,Tunis
+5,8000.0,immobilier,500.0,Villa de très haut standing a la marsa,House,À Vendre,Tunis
+5,8500.0,immobilier,564.0,Villa à gammarth,House,À Vendre,Tunis
+3,195000.0,immobilier,97.0,Appartement s2 a la soukra,Appart,À Vendre,Ariana
+4,1200000.0,immobilier,300.0,Villa moderne à la soukra,House,À Vendre,Ariana
+4,1500.0,immobilier,180.0,étage de villa de 170 m²,Appart,À Vendre,Tunis
+5,4500.0,immobilier,400.0,Villa à marsa corniche,House,À Vendre,Tunis
+3,3000.0,immobilier,100.0,Appartement meublé à la marsa,Appart,À Vendre,Tunis
+3,1400.0,immobilier,130.0,S2 à la soukra,Appart,À Vendre,Ariana
+4,480000.0,immobilier,175.0,S3 à la marsa,Appart,À Vendre,Tunis
+4,1800.0,immobilier,180.0,S3 à la marsa,Appart,À Vendre,Tunis
+5,4000.0,immobilier,400.0,Villa s5 à la marsa,House,À Vendre,Tunis
+4,5500.0,immobilier,180.0,S3 à la marsa,Appart,À Vendre,Tunis
+4,2700.0,immobilier,180.0,Duplex meublé à la marsa,House,À Vendre,Tunis
+5,3500.0,immobilier,400.0,Villa avec piscine et jardin-chotrana,House,À Vendre,Ariana
+3,950.0,immobilier,130.0,S2 à sidi daoud,Appart,À Vendre,Tunis
+3,1800.0,immobilier,90.0,S2 à la marsa,Appart,À Vendre,Tunis
+4,2500.0,immobilier,400.0,Appartement-villa meublée à gammarth palace,Appart,À Vendre,Tunis
+3,2500.0,immobilier,120.0,Duplex meublé à la marsa,House,À Vendre,Tunis
+5,1100000.0,immobilier,200.0,Villa avec vue sur la colline de carthage et la cathédra...,House,À Vendre,Tunis
+3,3700.0,immobilier,140.0,Duplex meublé à gammarth,House,À Vendre,
+4,2200.0,immobilier,180.0,S3 vue sur lac,Appart,À Vendre,Tunis
+4,1600.0,immobilier,160.0,Étage de villa à la marsa,Appart,À Vendre,Tunis
+4,3500.0,immobilier,380.0,Rez de jardin dune villa à marsa nessim,House,À Vendre,Tunis
+4,700000.0,immobilier,180.0,Duplex s3 à sidi daoud,Appart,À Vendre,Tunis
+4,870000.0,immobilier,200.0,Duplex à la marsa,House,À Vendre,Tunis
+4,3500.0,immobilier,480.0,S3 meublé à la marsa,Appart,À Vendre,Tunis
+3,250000.0,immobilier,128.0,Appartement s2 avec balcon - ennaser 2,Appart,À Vendre,Ariana
+5,1700000.0,immobilier,600.0,Villa avec piscine et jardin- menzah 9b,House,À Vendre,Tunis
+5,1250000.0,immobilier,360.0,Loft,Appart,À Vendre,Tunis
+4,550000.0,immobilier,204.0,S3,Appart,À Vendre,Tunis
+3,750000.0,immobilier,135.0,Duplex de 225 m² à la marsa.,House,À Vendre,Tunis
+3,350000.0,immobilier,89.0,S2 de 89 m² avec une terasse de 145 m²,Appart,À Vendre,Tunis
+4,550000.0,immobilier,195.0,Appartement s3,Appart,À Vendre,Tunis
+2,200000.0,immobilier,67.0,S1 à ain zaghouen nord,Appart,À Vendre,Tunis
+4,470000.0,immobilier,146.0,"S3 de 169,7m² au jardins de carthage",Appart,À Vendre,Tunis
+3,460000.0,immobilier,131.0,S2 de 131 m² au lac 2 vue sur lac,Appart,À Vendre,Tunis
+5,720000.0,immobilier,175.0,S3 de 238m² avec vue dégagé,Appart,À Vendre,Tunis
+3,2500.0,immobilier,240.0,Villa plain pied à la marsa,House,À Vendre,Tunis
+5,850000.0,immobilier,480.0,Villa à gammarth,House,À Vendre,
+5,720000.0,immobilier,261.0,Triplex,Appart,À Vendre,Tunis
+5,1900000.0,immobilier,942.0,Villa de 942m² à rénover à mutuelleville,House,À Vendre,Tunis
+5,733000.0,immobilier,270.0,S4,Appart,À Vendre,Tunis
+4,680000.0,immobilier,193.0,S3 au lac 2,Appart,À Vendre,Tunis
+4,5000.0,immobilier,600.0,Villa meublé a gammarth supérieur,House,À Vendre,Tunis
+5,804000.0,immobilier,267.0,Appartement s4 très haut standing- menzah5,Appart,À Vendre,Ariana
+5,550000.0,immobilier,270.0,Triplex,Appart,À Vendre,Tunis
+3,450000.0,immobilier,150.0,Appartement s2 très haut standing -menzah5,Appart,À Vendre,Ariana
+5,5500.0,immobilier,330.0,Triplex vue sur mer,House,À Vendre,Tunis
+3,2500.0,immobilier,120.0,S2 meublé à gammarth,Appart,À Vendre,Tunis
+5,472500.0,immobilier,225.0,Appartement s4 de 225 m² neuf promoteur - ennaser 2,Appart,À Vendre,Ariana
+5,1600000.0,immobilier,600.0,Villa haut standing avec piscine et jardin - jardins del...,House,À Vendre,Ariana
+5,980000.0,immobilier,300.0,Villa avec jardin s4 à ennaser 2,House,À Vendre,Ariana
+5,1350000.0,immobilier,375.0,Villa avec jardin- ennasr 2,House,À Vendre,Ariana
+2,350000.0,immobilier,110.0,S2 aux berges du lac,Appart,À Vendre,Tunis
+3,1650.0,immobilier,129.0,S2 à la marsa,Appart,À Vendre,Tunis
+4,1800.0,immobilier,150.0,Rdc à la marsa,Appart,À Vendre,Tunis
+3,1650.0,immobilier,129.0,S2 à la marsa,Appart,À Vendre,Tunis
+2,270000.0,immobilier,60.0,S1 au cœur du lac 2,Appart,À Vendre,Tunis
+3,3500.0,immobilier,140.0,S2 au rdc à gammarth vue sur mer,Appart,À Vendre,Tunis
+3,1650.0,immobilier,129.0,S2 à la marsa,Appart,À Vendre,Tunis
+4,2100000.0,immobilier,520.0,Triplex s4 à gammarth,Appart,À Vendre,Tunis
+3,520000.0,immobilier,160.0,S2 de 160m² au lac 2,Appart,À Vendre,Tunis
+5,4000.0,immobilier,350.0,Villa à la marsa,House,À Vendre,Tunis
+2,140000.0,immobilier,70.0,Appartement s1- menzah 8,Appart,À Vendre,Ariana
+4,2000.0,immobilier,156.0,S3 meublé à gammarth,Appart,À Vendre,Tunis
+4,580000.0,immobilier,262.0,S3,Appart,À Vendre,Tunis
+2,1000.0,immobilier,60.0,Appartement s1 meublé- ennasr2,Appart,À Vendre,Ariana
+5,1050000.0,immobilier,400.0,Villa de 416 m² à gammarth,House,À Vendre,Tunis
+3,190000.0,immobilier,90.0,Appartement s2 a ain zaghouan,Appart,À Vendre,Tunis
+5,1140000.0,immobilier,420.0,Villa avec piscine à ennasr 2,House,À Vendre,Ariana
+5,1200000.0,immobilier,420.0,Villa avec piscine à ennasr 2,House,À Vendre,Ariana
+4,425000.0,immobilier,173.0,Appartement s3 haut standing neuf promoteur à ennasr 2,Appart,À Vendre,Ariana
+4,780000.0,immobilier,283.0,Duplex s3 neuf haut standing promoteur - ennaser 2,House,À Vendre,Ariana
+3,270000.0,immobilier,120.0,S3 de 120 m² coté monoprix la soukra,Appart,À Vendre,Ariana
+5,4000.0,immobilier,600.0,Villa a la marsa,House,À Vendre,Tunis
+3,700000.0,immobilier,180.0,Duplex à gammarth,House,À Vendre,Tunis
+4,450000.0,immobilier,190.0,Appartement s3 de 192 m² neuf promoteur - menzah 9c,Appart,À Vendre,Tunis
+3,1500.0,immobilier,90.0,S2 meublé à la marsa,Appart,À Vendre,Tunis
+5,495000.0,immobilier,220.0,Appartement s4 de 200m² neuf promoteur- menzah 7 bis,Appart,À Vendre,Ariana
+4,393750.0,immobilier,175.0,Appartement s3 de 175m² neuf promoteur- menzah 7 bis,Appart,À Vendre,Ariana
+2,270000.0,immobilier,120.0,Appartement s2 de 120m² neuf promoteur- menzah 7 bis,Appart,À Vendre,Ariana
+4,3000.0,immobilier,180.0,Duplex meublé en s3 à gammarth.,House,À Vendre,Tunis
+5,2000.0,immobilier,200.0,S4 à ain zaghouen nord,Appart,À Vendre,
+4,4200.0,immobilier,180.0,For rent s 3 furnished lake view,Appart,À Vendre,Tunis
+3,600000.0,immobilier,180.0,S2 de 150 m² avec terrasse vue sur lac,Appart,À Vendre,Tunis
+2,1000.0,immobilier,67.0,Appartement s1 au lac2,Appart,À Vendre,Tunis
+2,750.0,immobilier,65.0,S1 de 70 m²,Appart,À Vendre,Tunis
+5,3500.0,immobilier,280.0,Villa avec jardin a carthage dermech,House,À Vendre,Tunis
+5,7000.0,immobilier,800.0,Villa au lac 1,House,À Vendre,Tunis
+5,4000.0,immobilier,350.0,Villa avec piscine à la marsa,House,À Vendre,Tunis
+4,4200.0,immobilier,180.0,S3 meublé à gammarth,Appart,À Vendre,
+4,3500.0,immobilier,180.0,S3 meublé front lac,Appart,À Vendre,Tunis
+4,560000.0,immobilier,158.0,Appartement s3 neuf promoteur,Appart,À Vendre,Tunis
+5,693000.0,immobilier,207.0,Appartement s4 neuf promoteur,Appart,À Vendre,Tunis
+5,3200.0,immobilier,695.0,Villa à ennasr 1,House,À Vendre,Ariana
+5,693000.0,immobilier,207.0,Appartement s4 neuf promoteur,Appart,À Vendre,Tunis
+5,6000.0,immobilier,450.0,Villa à gammarth,House,À Vendre,Tunis
+4,300000.0,immobilier,100.0,S3 de 100m² avec une terrasse de 78 m²,Appart,À Vendre,Tunis
+5,654000.0,immobilier,198.0,Appartement s4 neuf promoteur,Appart,À Vendre,Tunis
+3,2500.0,immobilier,98.0,S2 meublé à la marsa,Appart,À Vendre,Tunis
+5,2000000.0,immobilier,500.0,Villa de très haut standing a la marsa,House,À Vendre,Tunis
+2,270000.0,immobilier,87.0,Appartement s1,Appart,À Vendre,Tunis
+3,2800.0,immobilier,137.0,S2 au lac deux avec 150m² jardin,Appart,À Vendre,Tunis
+4,2400.0,immobilier,137.0,Bureau de 137.2 au lac 2,Appart,À Vendre,Tunis
+4,2500.0,immobilier,150.0,S3 vue sur lac,Appart,À Vendre,Tunis
+5,4800.0,immobilier,300.0,Belle villa à la marsa,House,À Vendre,Tunis
+5,650000.0,immobilier,190.0,S4 au lac 2,Appart,À Vendre,Tunis
+4,650000.0,immobilier,130.0,Appartement à la marsa cube,Appart,À Vendre,Tunis
+5,740000.0,immobilier,240.0,Duplex s3 à ennasr2,House,À Vendre,Ariana
+2,2500.0,immobilier,80.0,S1 avec grand jardin et piscine avec une vue sur mer,Appart,À Vendre,Tunis
+5,2200.0,immobilier,900.0,Villa 200 m² sur un terrain de 900 m² en plain pied,House,À Vendre,Tunis
+4,1500000.0,immobilier,350.0,Villa à la marsa,Appart,À Vendre,Tunis
+2,1150.0,immobilier,90.0,S1 meublé a carthage byrsa,Appart,À Vendre,Tunis
+4,2500.0,immobilier,260.0,étage de villa s3 meublé à menzah 5,Appart,À Vendre,Ariana
+3,1700.0,immobilier,125.0,Étage de villa s2 à menzah 5,Appart,À Vendre,Ariana
+4,2500.0,immobilier,180.0,S3 de 180m²,Appart,À Vendre,Tunis
+2,1200.0,immobilier,70.0,S1 meublé à la goulette,Appart,À Vendre,
+4,4000.0,immobilier,190.0,S3 luxueusement meublée au lac 2,Appart,À Vendre,Tunis
+4,3500.0,immobilier,350.0,S3 meublé à la goulette,Appart,À Vendre,Tunis
+5,10000.0,immobilier,400.0,Villa vue sur mer à gammarth supérieur,House,À Vendre,Tunis
+5,1150000.0,immobilier,400.0,Villa haut standing avec piscine- le bardo,House,À Vendre,Tunis
+5,3000.0,immobilier,180.0,S4 de 200m² avec vue degagé,Appart,À Vendre,Tunis
+4,2600.0,immobilier,190.0,S3 neuf au lac 2 sur le grand boulevard,Appart,À Vendre,Tunis
+4,305000.0,immobilier,135.0,Appartement s3 à menzah 1,Appart,À Vendre,Tunis
+4,1500.0,immobilier,140.0,S3 au lac 2,Appart,À Vendre,Tunis
+4,625000.0,immobilier,230.0,Appartement s3 neuf promoteur de 230 m²,Appart,À Vendre,Tunis
+3,1600.0,immobilier,116.0,S2 de 116m² au lac deux,Appart,À Vendre,Tunis
+2,155000.0,immobilier,70.0,Coquet appartement s1 au rdc-menzah 7bis,Appart,À Vendre,Ariana
+4,2500.0,immobilier,180.0,S3 avec piscine,Appart,À Vendre,Tunis
+4,600000.0,immobilier,243.0,Duplex s3 a ain zaghouan nord meublé ou vide,House,À Vendre,Tunis
+3,2000.0,immobilier,140.0,S2 à la marsa,Appart,À Vendre,Tunis
+4,2500.0,immobilier,200.0,étage de villa à ain zaghouan nord,House,À Vendre,
+5,3000.0,immobilier,350.0,Duplex s4,Appart,À Vendre,Tunis
+5,1700.0,immobilier,230.0,"Appartement - carthage, carthage, tunis",Appart,À Vendre,Tunis
+3,1800.0,immobilier,100.0,S2 à la marsa,Appart,À Vendre,Tunis
+4,2500.0,immobilier,190.0,S3,Appart,À Vendre,Tunis
+5,2500.0,immobilier,350.0,S5 a jardin de carthage,Appart,À Vendre,Tunis
+4,1500.0,immobilier,140.0,S3 à ain zaghouen nord,Appart,À Vendre,
+4,3500.0,immobilier,350.0,Villa à la marsa,House,À Vendre,Tunis
+3,440000.0,immobilier,127.0,S2 de 128m²,Appart,À Vendre,Tunis
+4,1200.0,immobilier,160.0,étage de villa a jardin de carthage,Appart,À Vendre,Tunis
+2,1600.0,immobilier,80.0,S1 meublé au lac deux,Appart,À Vendre,Tunis
+3,1100.0,immobilier,136.0,S2 à la marsa,Appart,À Vendre,Tunis
+5,6000.0,immobilier,540.0,Villa meublé a carthage dermech,House,À Vendre,Tunis
+4,1200000.0,immobilier,155.0,Villa de 155 m² sur un terrain de 325 m² a salambo,House,À Vendre,Tunis
+2,1300.0,immobilier,54.0,S1 meublé au lac deux,Appart,À Vendre,Tunis
+5,3500.0,immobilier,160.0,Duplex avec piscine au lac deux,Appart,À Vendre,Tunis
+5,4500.0,immobilier,500.0,Villa s5 a la marsa,House,À Vendre,Tunis
+5,700000.0,immobilier,240.0,S4 de 240m²,Appart,À Vendre,Tunis
+5,1490000.0,immobilier,600.0,Villa avec piscine à menzah 8,House,À Vendre,Ariana
+5,1600000.0,immobilier,850.0,Villa avec jardin -menzah 5,House,À Vendre,Ariana
+5,3500.0,immobilier,600.0,Villa s4 au lac 2,House,À Vendre,Tunis
+4,1200.0,immobilier,130.0,S3 à ain zaghouen nord,Appart,À Vendre,
+3,4500.0,immobilier,400.0,Magnifique villa a la marsa gammarth sup,House,À Vendre,Tunis
+5,8000.0,immobilier,600.0,Villa au lac 2,House,À Vendre,Tunis
+5,1050000.0,immobilier,370.0,Villa moderne à menzah 5,House,À Vendre,Ariana
+3,900000.0,immobilier,419.0,Villa avec jardin-mutuelleville,House,À Vendre,Tunis
+5,10000.0,immobilier,500.0,Villa à la marsa,House,À Vendre,Tunis
+3,285000.0,immobilier,122.0,Appartement s2 dar fadhal,Appart,À Vendre,Ariana
+3,406000.0,immobilier,145.0,Appartement s2,Appart,À Vendre,Tunis
+5,1400.0,immobilier,170.0,Rez de chaussé de villa pour jardin denfant,Appart,À Vendre,Tunis
+3,290000.0,immobilier,80.0,S2 au lac 2,Appart,À Vendre,Tunis
+4,4200.0,immobilier,160.0,S3 meublé à la marsa,Appart,À Vendre,Tunis
+5,5000.0,immobilier,350.0,Villa à gammarth,House,À Vendre,
+5,4500.0,immobilier,250.0,Duplex à la marsa,House,À Vendre,Tunis
+3,2300.0,immobilier,150.0,Duplex s2 à cite el wifek la marsa,Appart,À Vendre,Tunis
+5,1700.0,immobilier,225.0,Rdc s4 à marsa ville,Appart,À Vendre,Tunis
+4,2800.0,immobilier,110.0,S3 à la marsa,Appart,À Vendre,Tunis
+5,1400000.0,immobilier,450.0,Villa avec jardin - menzah 9a,House,À Vendre,Tunis
+5,2800.0,immobilier,350.0,Appartement s5 à la marsa,Appart,À Vendre,Tunis
+2,1400.0,immobilier,78.0,S1 meublé de 75 m²,Appart,À Vendre,Tunis
+4,2800.0,immobilier,168.0,S3 neuf au lac 2,Appart,À Vendre,Tunis
+3,2000.0,immobilier,135.0,S2 neuf au lac 2,Appart,À Vendre,Tunis
+4,6000.0,immobilier,320.0,S3 avec piscine au lac 2,Appart,À Vendre,Tunis
+5,1331000.0,immobilier,317.0,Villa à la soukra,House,À Vendre,Ariana
+4,2400.0,immobilier,176.0,S3 au lac 2 a coté de tunisia-mall,Appart,À Vendre,Tunis
+4,2200.0,immobilier,180.0,S3 de 190 m² au lac 2,Appart,À Vendre,Tunis
+4,2500.0,immobilier,235.0,S3 neuf au lac 2 avenue de la bourse,Appart,À Vendre,Tunis
+4,530000.0,immobilier,174.0,Appartement neuf s3 haut standing,Appart,À Vendre,Tunis
+3,395500.0,immobilier,128.0,Appartement neuf s2 haut standing,Appart,À Vendre,Tunis
+4,3000.0,immobilier,250.0,Charmante villa meublé plein pied à carthage hannibal,House,À Vendre,Tunis
+3,2500.0,immobilier,115.0,Appartement meublé en s2 à la marsa,Appart,À Vendre,Tunis
+2,380000.0,immobilier,90.0,S1 à la marsa,Appart,À Vendre,Tunis
+3,1500.0,immobilier,132.0,S2 neuf au lac 2,Appart,À Vendre,Tunis
+3,420000.0,immobilier,131.0,S2 de 132 m² avec jardin au jardin de carhage,Appart,À Vendre,Tunis
+3,1300.0,immobilier,131.0,S2 de 132 m² avec jardin au jardin de carhage,Appart,À Vendre,Tunis
+3,1300.0,immobilier,131.0,S2 de 132 m² avec jardin au jardin de carhage,Appart,À Vendre,Tunis
+4,3000.0,immobilier,140.0,S3 meublé à marsa saada à coté du lycée cailloux,Appart,À Vendre,Tunis
+2,1500.0,immobilier,80.0,S1 meublé à la marsa,Appart,À Vendre,Tunis
+4,1350.0,immobilier,170.0,S3 de 167m²,Appart,À Vendre,Tunis
+5,3468367.0,immobilier,700.0,Villa de 700 m² à el menzah 5 avec piscine,House,À Vendre,Ariana
+4,2000.0,immobilier,180.0,Villa jumelée à la marsa,House,À Vendre,Tunis
+4,4500.0,immobilier,240.0,"Appartement - berges du lac 1, la marsa, tunis",Appart,À Vendre,Tunis
+4,4000.0,immobilier,260.0,"Appartement - berges du lac 1, la marsa, tunis",Appart,À Vendre,Tunis
+5,4500.0,immobilier,500.0,Villa à la marsa,House,À Vendre,Tunis
+4,2200.0,immobilier,140.0,Appartement s3 meublé à ennasr 2,Appart,À Vendre,Ariana
+5,980000.0,immobilier,250.0,S4 neuf vue lac,Appart,À Vendre,Tunis
+4,3500.0,immobilier,250.0,Joli duplex aux jardin de carthage,House,À Vendre,Tunis
+3,410000.0,immobilier,156.0,S2 de 156m²,Appart,À Vendre,Tunis
+4,2000.0,immobilier,190.0,S3 de 190 m² au lac 2,Appart,À Vendre,Tunis
+3,600000.0,immobilier,128.0,Duplex à gammarth,House,À Vendre,
+4,265000.0,immobilier,100.0,Appartement s3 - ennasr 1,Appart,À Vendre,Ariana
+4,3200.0,immobilier,250.0,Magnifique s3,Appart,À Vendre,Tunis
+5,1300000.0,immobilier,200.0,Duplex à gammarth superieur,House,À Vendre,
+5,3000.0,immobilier,350.0,Villa à la soukra,House,À Vendre,Ariana
+5,450000.0,immobilier,232.0,Duplex à la soukra,House,À Vendre,Ariana
+5,514500.0,immobilier,245.0,S4 à la soukra,Appart,À Vendre,Ariana
+5,500000.0,immobilier,139.0,Appartement s4,Appart,À Vendre,Tunis
+2,165000.0,immobilier,74.0,Appartement s1 à la soukra,Appart,À Vendre,Ariana
+4,1500.0,immobilier,170.0,"Appartement - carthage, carthage, tunis",Appart,À Vendre,Tunis
+4,5000.0,immobilier,450.0,Maison à gammarth,House,À Vendre,
+4,1700.0,immobilier,180.0,Rdc,Appart,À Vendre,Tunis
+4,2500.0,immobilier,200.0,S3 de 200m² aux jardins du lac,Appart,À Vendre,Tunis
+5,2500.0,immobilier,260.0,Spacieux s4,Appart,À Vendre,Tunis
+4,3500.0,immobilier,170.0,Duplex à la marsa cité les pins,House,À Vendre,Tunis
+5,650000.0,immobilier,227.0,S4 de 280m² avec 30m² terasse,Appart,À Vendre,Tunis
+3,2500.0,immobilier,130.0,S2 usage bureautique à la marsa,Appart,À Vendre,Tunis
+5,7000.0,immobilier,450.0,Villa de 600 m² a la marsa,House,À Vendre,Tunis
+4,460000.0,immobilier,172.0,Appartement s3 jardins de carthage,Appart,À Vendre,Tunis
+5,580000.0,immobilier,190.0,Appartement s4 à ennasr2,Appart,À Vendre,Ariana
+4,480000.0,immobilier,151.0,Appartement s3 haut standing à ennasr 2,Appart,À Vendre,Ariana
+5,2500.0,immobilier,800.0,Villa à la soukra,House,À Vendre,Ariana
+3,1100.0,immobilier,125.0,"Appartement - carthage, carthage, tunis",Appart,À Vendre,Tunis
+3,1500.0,immobilier,156.0,Magnifique s2,Appart,À Vendre,Tunis
+4,3200.0,immobilier,200.0,S3 de 340 m² a gammarth,Appart,À Vendre,Tunis
+4,460000.0,immobilier,166.0,Appartement s3 jardins de carthage.,Appart,À Vendre,Tunis
+4,2700.0,immobilier,180.0,S3 à la marsa,Appart,À Vendre,Tunis
+4,3500.0,immobilier,300.0,S3 avec piscine au lac 2,Appart,À Vendre,Tunis
+5,3200.0,immobilier,210.0,S4 meublée au lac 2,Appart,À Vendre,Tunis
+5,502000.0,immobilier,212.0,S4 à ain zaghouen nord,Appart,À Vendre,
+5,2500.0,immobilier,220.0,S4 de 220 m²au lac 2,Appart,À Vendre,Tunis
+2,1100.0,immobilier,74.0,Appartement s1 meublé à menzah 9c,Appart,À Vendre,Tunis
+5,2500.0,immobilier,250.0,Penthouse à la marsa,Appart,À Vendre,Tunis
+3,1500.0,immobilier,130.0,S2 avec un grand jardin,Appart,À Vendre,Tunis
+3,1800.0,immobilier,125.0,S2 de 125m² au lac deux,Appart,À Vendre,Tunis
+5,1400000.0,immobilier,276.0,Duplex à la marsa,House,À Vendre,Tunis
+3,1200.0,immobilier,125.0,S2 à ain zaghouan nord,Appart,À Vendre,
+4,1200000.0,immobilier,270.0,Villa à la marsa cité les pins,House,À Vendre,Tunis
+3,2000.0,immobilier,130.0,S2 au lac deux,Appart,À Vendre,Tunis
+4,2300.0,immobilier,170.0,S3 de 170m² au lac deux,Appart,À Vendre,Tunis
+5,2500.0,immobilier,250.0,Villa jumelée à la marsa,House,À Vendre,Tunis
+4,390000.0,immobilier,157.0,Appartement s3 haut standing à menzah 9 c,Appart,À Vendre,Tunis
+2,1400.0,immobilier,60.0,Appartement s1 meublé à gammarth golden tulip,Appart,À Vendre,Tunis
+4,3200.0,immobilier,145.0,Bureau de 150 m² au lac deux,Appart,À Vendre,Tunis
+5,1500.0,immobilier,190.0,S4 de 220m² avec vue,Appart,À Vendre,Tunis
+2,1500.0,immobilier,70.0,Bureau a usage médical,Appart,À Vendre,Tunis
+4,3000.0,immobilier,190.0,S3 de 195m² au lac 2,Appart,À Vendre,Tunis
+4,235000.0,immobilier,156.0,Appartement s3 avec une vue imprenable à menzah 8,Appart,À Vendre,Ariana
+3,1050.0,immobilier,110.0,S2 de 115,Appart,À Vendre,Tunis
+3,1050.0,immobilier,119.0,S2 à la marsa,Appart,À Vendre,Tunis
+4,2000000.0,immobilier,400.0,Villa plein pied de 400m² à la soukra,House,À Vendre,Ariana
+2,1300.0,immobilier,67.0,"Appartement - carthage, carthage, tunis",Appart,À Vendre,Tunis
+3,1300.0,immobilier,105.0,S2 meublé à ain zaghouen nord,Appart,À Vendre,
+4,1700.0,immobilier,160.0,"Appartement - carthage, carthage, tunis",Appart,À Vendre,Tunis
+2,1100.0,immobilier,80.0,Joli s1 avec un jardin de 50 m²,Appart,À Vendre,Tunis
+5,670000.0,immobilier,234.0,S4,Appart,À Vendre,Tunis
+5,1800.0,immobilier,212.0,S4 à ain zaghouen nord,Appart,À Vendre,Tunis
+4,323000.0,immobilier,150.0,Appartement s3 neuf promoteur à laouina,Appart,À Vendre,Tunis
+3,1600.0,immobilier,115.0,S2 à la marsa,Appart,À Vendre,Tunis
+4,950.0,immobilier,181.0,Etage de villa à ain zaghouen nord,House,À Vendre,
+3,395000.0,immobilier,146.0,S2 à ain zaghouen nord,Appart,À Vendre,Tunis
+3,1200.0,immobilier,120.0,S2 meublé aux jardin de carthage,Appart,À Vendre,Tunis
+3,1100.0,immobilier,150.0,S2 à ain zaghouen nord,Appart,À Vendre,
+4,1500.0,immobilier,176.0,S3 a coté de tunisia mall,Appart,À Vendre,Tunis
+2,1250.0,immobilier,70.0,Bureau de 70m² sur le grand boulevard,Appart,À Vendre,Tunis
+4,2000.0,immobilier,173.0,S3 à ain zaghouen nord,Appart,À Vendre,
+3,1200.0,immobilier,136.0,S2 aux jardin de carthage,Appart,À Vendre,Tunis
+3,1300.0,immobilier,156.0,S2 à ain zaghouen nord,Appart,À Vendre,
+4,480000.0,immobilier,181.0,S3 à ain zaghouen nord,Appart,À Vendre,
+5,585000.0,immobilier,223.0,S4 à ain zaghouen nord,Appart,À Vendre,
+4,540000.0,immobilier,160.0,S3 à ain zaghouen nord,Appart,À Vendre,
+5,1600000.0,immobilier,500.0,Villa avec piscine et jardin- menzah 5,House,À Vendre,Ariana
+3,1000.0,immobilier,120.0,S2 aux jardin de carthage,Appart,À Vendre,Tunis
+4,1300.0,immobilier,160.0,S3 aux jardin de carthage,Appart,À Vendre,Tunis
+4,1800.0,immobilier,240.0,"Duplex - ain zaghouan, la marsa, tunis",House,À Vendre,Tunis
+4,680000.0,immobilier,242.0,Spacieux triplex aux jardin de carthage,Appart,À Vendre,Tunis
+2,235000.0,immobilier,89.0,S1 résidence seville ain zaghouen nord,Appart,À Vendre,
+4,340000.0,immobilier,170.0,S3 aux berges du lac 1,Appart,À Vendre,Tunis
+4,2500.0,immobilier,120.0,S3 meublé aux berges du lac,Appart,À Vendre,
+5,480000.0,immobilier,300.0,Triplex avec jardin- les uv4 menzah 5,Appart,À Vendre,Ariana
+4,1700.0,immobilier,170.0,S3 de 170 m² avec une belle vue,Appart,À Vendre,Tunis
+4,240000.0,immobilier,140.0,Appartement s3 à carthage salambo,Appart,À Vendre,Tunis
+4,510000.0,immobilier,182.0,Joli s3 transformé en s2.,Appart,À Vendre,Tunis
+5,750000.0,immobilier,300.0,Triplex avec 3 suites situé à ain zaghouane nord.,Appart,À Vendre,Tunis
+4,2800.0,immobilier,240.0,Joli triplex,Appart,À Vendre,Tunis
+3,411000.0,immobilier,120.0,S2 de 120m² avec terrasse,Appart,À Vendre,Tunis
+4,649000.0,immobilier,180.0,S3 neuf de chez promoteur au lac 2,Appart,À Vendre,Tunis
+3,1500.0,immobilier,130.0,S2 neuf au lac 2,Appart,À Vendre,Tunis
+5,850000.0,immobilier,420.0,Villa inachevée à ain zaghouan nord,House,À Vendre,Tunis
+4,5500.0,immobilier,500.0,Villa à marina gammarth,House,À Vendre,Tunis
+5,2000000.0,immobilier,670.0,Villa de maitre avec piscine - manar1,House,À Vendre,Tunis
+4,1522248.0,immobilier,312.0,Nouvelle construction lac 2,Appart,À Vendre,Tunis
+5,600000.0,immobilier,540.0,Villa jumelée aux jardins del menzah 2,House,À Vendre,Tunis
+5,1600.0,immobilier,270.0,S4 avec vue dégagée à la soukra,Appart,À Vendre,Ariana
+5,3800.0,immobilier,350.0,S4 de 380 au lac deux,Appart,À Vendre,Tunis
+2,1000.0,immobilier,90.0,Loft s1 aux jardin de carthage,Appart,À Vendre,Tunis
+3,1600.0,immobilier,135.0,S2 de 135m²,Appart,À Vendre,Tunis
+4,1700.0,immobilier,190.0,S3,Appart,À Vendre,Tunis
+5,2500.0,immobilier,280.0,Duplex à gammarth superieur,House,À Vendre,Tunis
+3,1100.0,immobilier,110.0,S2 de 125m²,Appart,À Vendre,Tunis
+4,2900.0,immobilier,200.0,Duplex au lac 2,Appart,À Vendre,Tunis
+5,2300.0,immobilier,150.0,Bureaux et plateaux 150 m2 avenue de la bourse,Appart,À Vendre,Tunis
+4,1400.0,immobilier,170.0,S3,Appart,À Vendre,Tunis
+5,2900000.0,immobilier,660.0,Villa de maÎtre sur artÈre principale - notre dame,House,À Vendre,Tunis
+4,1500.0,immobilier,168.0,S3 avec jardin,Appart,À Vendre,Tunis
+5,6000.0,immobilier,700.0,Magnifique villa,House,À Vendre,Tunis
+5,4500.0,immobilier,700.0,Villa,House,À Vendre,Tunis
+2,1000.0,immobilier,62.0,S1 vide sur le grand boulevard,Appart,À Vendre,Tunis
+3,2400.0,immobilier,128.0,S2 meublée vue lac,Appart,À Vendre,Tunis
+5,2300000.0,immobilier,250.0,Maison coloniale de 4000m² au coeur de la soukra,House,À Vendre,Ariana
+3,650000.0,immobilier,175.0,S3,Appart,À Vendre,Tunis
+5,800000.0,immobilier,260.0,Villa. la marsa,House,À Vendre,Tunis
+5,1500.0,immobilier,220.0,S4 de 220 m²,Appart,À Vendre,Tunis
+2,900.0,immobilier,70.0,S1 de 70m²,Appart,À Vendre,Tunis
+4,1600.0,immobilier,180.0,S3,Appart,À Vendre,Tunis
+5,5300000.0,immobilier,600.0,Villa neuve à la soukra,House,À Vendre,Ariana
+4,3500.0,immobilier,190.0,S3 meublé au lac deux,Appart,À Vendre,Tunis
+2,1600.0,immobilier,170.0,S2 170 m²,Appart,À Vendre,Tunis
+4,5000.0,immobilier,320.0,Duplex avec piscine,House,À Vendre,Tunis
+4,320000.0,immobilier,170.0,Appartement s3 au jardins del menzah 2,Appart,À Vendre,Tunis
+2,1100.0,immobilier,75.0,S1 meublé,Appart,À Vendre,Tunis
+3,1600.0,immobilier,130.0,S2 meublé,Appart,À Vendre,Tunis
+3,2500.0,immobilier,120.0,Appartement s2 meublé à gammarth le palace,Appart,À Vendre,Tunis
+5,1050000.0,immobilier,170.0,Villa de 300m² avec vue sur la colline de carthage et la...,House,À Vendre,Tunis
+5,780000.0,immobilier,236.0,S4 sur le grand boulevard avec une vue sur le lac,Appart,À Vendre,Tunis
+3,1200.0,immobilier,125.0,S2 de 125m² avec jardin,Appart,À Vendre,Tunis
+4,2320.0,immobilier,175.0,S3 de 180 m² au lac deux,Appart,À Vendre,Tunis
+3,1300.0,immobilier,168.0,S2 de 168 m²,Appart,À Vendre,Tunis
+3,625000.0,immobilier,125.0,S2 avec double suite de 125 m² avec jardin de 133 m² au...,Appart,À Vendre,Tunis
+5,1300000.0,immobilier,220.0,Charmante villa sur artère principale à la soukra,House,À Vendre,Ariana
+2,330000.0,immobilier,120.0,S2 avec jardin,Appart,À Vendre,Tunis
+5,1500000.0,immobilier,300.0,Villa -marsa nassim,House,À Vendre,Tunis
+5,2000.0,immobilier,165.0,S4 à la marsa,Appart,À Vendre,Tunis
+3,320000.0,immobilier,107.0,S2 de 107m²,Appart,À Vendre,Tunis
+5,1200000.0,immobilier,522.0,Jolie villa sur trois niveaux à riadh landaloss,House,À Vendre,Ariana
+5,8500.0,immobilier,800.0,Villa meublé avec piscine et jardin au lac 2,House,À Vendre,Tunis
+3,485000.0,immobilier,192.0,S3,Appart,À Vendre,Tunis
+5,650000.0,immobilier,199.0,Penthouse de 349m² à ain zaghouan,Appart,À Vendre,Tunis
+4,2500.0,immobilier,170.0,S3 vue degagé,Appart,À Vendre,Tunis
+3,2300.0,immobilier,120.0,"Appartement - berges du lac 1, la marsa, tunis",Appart,À Vendre,Tunis
+4,3500.0,immobilier,200.0,S3 meublé au lac deux,Appart,À Vendre,Tunis
+3,1300.0,immobilier,140.0,"Appartement - carthage, carthage, tunis",Appart,À Vendre,Tunis
+4,620000.0,immobilier,170.0,S3 vue lac sur le grand boulevard,Appart,À Vendre,Tunis
+5,1600.0,immobilier,170.0,S3 avec vue dégagée,Appart,À Vendre,Tunis
+5,2000000.0,immobilier,400.0,Splendide villa avec piscine à ennassr 1,House,À Vendre,Ariana
+5,640000.0,immobilier,240.0,Appartement s4,Appart,À Vendre,Tunis
+4,996000.0,immobilier,322.0,"Duplex - carthage, carthage, tunis",House,À Vendre,Tunis
+5,1800000.0,immobilier,500.0,Villa menzah 1,House,À Vendre,Tunis
+5,2000.0,immobilier,200.0,S3 vue degagé,Appart,À Vendre,Tunis
+4,1800.0,immobilier,203.0,S3 meublé au lac 2 avec une belle terrasse,Appart,À Vendre,Tunis
+5,1600000.0,immobilier,580.0,Villa avec piscine à ennasr 1,House,À Vendre,Ariana
+4,320000.0,immobilier,150.0,Appartement s3 à menzah 7bis,Appart,À Vendre,Ariana
+3,450000.0,immobilier,156.0,Appartement s2,Appart,À Vendre,Tunis
+5,3700000.0,immobilier,620.0,Villa de standing avec jardin et piscine au lac 2,House,À Vendre,Tunis
+4,3500.0,immobilier,480.0,Belle villa au lac 2,Appart,À Vendre,Tunis
+5,1250000.0,immobilier,516.0,Villa inachevée à menzah 9a,House,À Vendre,Tunis
+2,170000.0,immobilier,80.0,Appartement s1 à kheiredine,Appart,À Vendre,Tunis
+5,2150000.0,immobilier,630.0,Villa- menzah 1,House,À Vendre,Tunis
+4,220000.0,immobilier,95.0,Appartement s2-nasser 1,Appart,À Vendre,Ariana
+5,330000.0,immobilier,186.0,Appartement s4 à la soukra,Appart,À Vendre,Ariana
+4,280000.0,immobilier,160.0,Appartement s3-ennasser 2,Appart,À Vendre,Ariana
+5,1950000.0,immobilier,800.0,Villa de maître à menzah 9 a,House,À Vendre,Tunis
+2,900.0,immobilier,73.0,Appartement s1 neuf meublé-jardins del menzah 2,Appart,À Vendre,Tunis
+5,6500.0,immobilier,650.0,Villa meublée avec piscine à gammarth,House,À Vendre,Tunis
+4,450000.0,immobilier,196.0,Appartement s3 neuf-jardins del menzah 2,Appart,À Vendre,Tunis
+5,2700000.0,immobilier,600.0,Villa à nord hilton,House,À Vendre,Tunis
+5,1640000.0,immobilier,580.0,Villa - menzah 9c,House,À Vendre,Tunis
+5,850000.0,immobilier,200.0,Villa sur 2 niveaux indepéndants à gammarth,House,À Vendre,Tunis
+4,340000.0,immobilier,130.0,Appartement s3 à ennaser2,Appart,À Vendre,Ariana
+3,1450.0,immobilier,118.0,Appartement meublé - gammarth vue sur mer,Appart,À Vendre,Tunis
+4,2300.0,immobilier,220.0,S3 vue sur lac de 200m² au lac deux,Appart,À Vendre,Tunis
+3,309580.0,immobilier,118.0,Appartements s2 s3 - la soukra,Appart,À Vendre,Ariana
+2,1400.0,immobilier,60.0,Magnifique s1 de 60 m² au lac 2,Appart,À Vendre,Tunis
+4,570150.0,immobilier,222.0,Duplex s3s4 - la soukra,House,À Vendre,Ariana
+4,1700.0,immobilier,178.0,Magnifique s3 au lac2,Appart,À Vendre,Tunis
+4,2500.0,immobilier,250.0,Duplex neuf au lac 2,Appart,À Vendre,Tunis
+5,1270000.0,immobilier,400.0,Villa à menzah 7,House,À Vendre,Ariana
+4,365000.0,immobilier,133.0,Appartement s3 à ennasr 1,Appart,À Vendre,Ariana
+4,390000.0,immobilier,156.0,Appartement s3,Appart,À Vendre,Tunis
+3,1600.0,immobilier,120.0,S2 de 120m² à sidi daoued,Appart,À Vendre,Tunis
+5,1100000.0,immobilier,300.0,Grande villa avec piscine à la soukra,House,À Vendre,Ariana
+4,350000.0,immobilier,150.0,Appartement s3 à menzah7 bis,Appart,À Vendre,Ariana
+5,450000.0,immobilier,206.0,Appartement s4 à jardins del menzah2,Appart,À Vendre,Tunis
+2,230000.0,immobilier,94.0,S1 de 94 m² aux jardin de carthage,Appart,À Vendre,Tunis
+5,740000.0,immobilier,281.0,Triplex à ennassr 2,Appart,À Vendre,Ariana
+3,240000.0,immobilier,124.0,Duplex s2 à ennassr 1,House,À Vendre,Ariana
+5,820000.0,immobilier,380.0,Villa-menzah 8,House,À Vendre,Ariana
+5,1000000.0,immobilier,480.0,Villa a la marsa relais,House,À Vendre,Tunis
+4,900.0,immobilier,130.0,Appartement s3 meublé- menzah6,Appart,À Vendre,Ariana
+5,5000.0,immobilier,850.0,Villa avec piscine -menzah5,House,À Vendre,Ariana
+5,2280000.0,immobilier,850.0,Villa avec piscine -menzah5,House,À Vendre,Ariana
+5,690000.0,immobilier,247.0,Triplex neuf à chotrana 1,Appart,À Vendre,Ariana
+5,2200000.0,immobilier,562.0,Grande villa dans un emplacement stratégique à mutuellevi...,House,À Vendre,Tunis
+4,1500.0,immobilier,175.0,S3 de 180 m² avec une terrasse de 80m² - 1 750 tndmois,Appart,À Vendre,Tunis
+5,950000.0,immobilier,400.0,Penthouse neuf à menzah 9c,Appart,À Vendre,Tunis
+3,1300.0,immobilier,170.0,S2 jardin de carthage,Appart,À Vendre,Tunis
+5,3500.0,immobilier,210.0,Meublée dun appartement neuf à ain zaghouan nord,Appart,À Vendre,Tunis
+5,1500000.0,immobilier,400.0,Villa avec jardin -ennasr 1,House,À Vendre,Ariana
+5,1300.0,immobilier,180.0,Etage de villa s4-ennassr2,Appart,À Vendre,Ariana
+5,720000.0,immobilier,330.0,Villa-bardo,House,À Vendre,Tunis
+5,9000.0,immobilier,800.0,Villa dexception au vilage de sidi bou said,House,À Vendre,Tunis
+3,295000.0,immobilier,110.0,Appartement s2 neuf à ennassr 2,Appart,À Vendre,Ariana
+3,1500.0,immobilier,100.0,S2 avec un grand jardin,Appart,À Vendre,Tunis
+4,1700.0,immobilier,175.0,Joli s3 au lac 2,Appart,À Vendre,Tunis
+4,790000.0,immobilier,246.0,Magnifique s3 avec jardin et piscine aux berges du lac,Appart,À Vendre,Tunis
+5,3000.0,immobilier,389.0,Prestigieux triplex avec jardin,Appart,À Vendre,Tunis
+5,1700000.0,immobilier,265.0,Superbe appartement vue lac,Appart,À Vendre,Tunis
+4,790000.0,immobilier,220.0,Duplex lac 1,House,À Vendre,Tunis
+4,2500.0,immobilier,200.0,Magnifique s3 meublé aux jardins du lac,Appart,À Vendre,Tunis
+4,2500.0,immobilier,160.0,Étage de villa s3 meublé aux jardins du lac 2,Appart,À Vendre,Tunis
+2,1200.0,immobilier,90.0,S1 vide au lac 2,Appart,À Vendre,Tunis
+5,5000.0,immobilier,550.0,Villa avec piscine à gammarth,House,À Vendre,Tunis
+3,2000.0,immobilier,100.0,Bel appartement s2 richement meublé,Appart,À Vendre,Tunis
+4,4000.0,immobilier,240.0,S3 haut standing lac 1,Appart,À Vendre,Tunis
+2,1700.0,immobilier,60.0,S1 aux lac 2,Appart,À Vendre,Tunis
+5,2800000.0,immobilier,600.0,Magnifique villa aux berges du lac,House,À Vendre,Tunis
