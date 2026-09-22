@@ -14,16 +14,10 @@ The project covers data preparation, exploratory analysis, machine learning mode
 House-Price-Prediction/
 │
 ├── data/
-│
 ├── HouseScraper/
-│
 ├── Notebooks/
-│   ├── artifacts/
-│   ├── mlruns/
 │   └── 1_data_preprocessing.ipynb
-│
 ├── fastapi_app.py
-├── mlflow.db
 ├── requirements.txt
 ├── requirements-prod.txt
 ├── .gitignore
@@ -34,12 +28,18 @@ House-Price-Prediction/
 
 ## Project Workflow
 
-### 1.Collect real-estate listing data
+1.Collect real-estate listing data
+
 2.Clean and preprocess the data
+
 3.Explore the main features and price distribution
+
 4.Prepare features for machine learning
+
 5.Train and evaluate regression models
+
 6.Track experiments and models with MLflow
+
 7.Serve predictions through FastAPI
 
 ---
@@ -50,11 +50,11 @@ The dataset is based on real-estate listings from Tunisian property platforms.
 
 The main features include:
 
-price
-surface
-rooms
-governorate
-property_type
+- `price`
+- `surface`
+- `rooms`
+- `governorate`
+- `property_type`
 
 The data is cleaned and transformed before being used for model training.
 
@@ -87,7 +87,7 @@ Evaluation metrics
 Model artifacts
 Experiment runs
 
-The local MLflow tracking database and experiment artifacts are stored in the repository.
+Experiments can be tracked locally using the MLflow UI.
 
 
 
