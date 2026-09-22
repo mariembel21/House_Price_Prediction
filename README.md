@@ -34,7 +34,7 @@ House-Price-Prediction/
 
 ## Project Workflow
 
-1.Collect real-estate listing data
+### 1.Collect real-estate listing data
 2.Clean and preprocess the data
 3.Explore the main features and price distribution
 4.Prepare features for machine learning
